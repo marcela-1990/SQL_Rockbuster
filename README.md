@@ -5,4 +5,4 @@ Rockbuster Stealth LLC is a fictious movie rental company that used to have stor
 # Data
 A relational database made up of 17 tables contatining data on customers, payments, rentals, films, cities, countries, categories, stores, and actors.
 
-Here is the link to all my tableau visuzliations: [Tableau Visauls]([url](https://public.tableau.com/app/profile/marcela8119))
+Here is the link to all my tableau visuzliations: [Tableau Visauls](https://public.tableau.com/app/profile/marcela8119)
